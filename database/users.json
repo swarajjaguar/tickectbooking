@@ -1,0 +1,284 @@
+{
+  "users": [
+    {
+      "name": "charan",
+      "email": "charan111@gmail.com",
+      "password": "charan123",
+      "dob": "01/01/2001",
+      "phno": "821485967",
+      "id": 1,
+      "pic": "",
+      "gender": "",
+      "active_bookings": [
+        {
+          "busname": "airavatha",
+          "busnumber": "KA014567",
+          "distance": "1000kms",
+          "seats": "1",
+          "from": "bengaluru",
+          "to": "Mumbai",
+          "start": "10:00 am",
+          "end": "10:00 pm",
+          "journey_time": "10 hrs",
+          "price": "1000",
+          "date": "20/7/2023"
+        }
+      ],
+      "previous_bookings": []
+    },
+    {
+      "name": "charan",
+      "email": "charan@gamil.com",
+      "password": "password",
+      "phno": "8217485967",
+      "dob": "1999-01-12",
+      "id": 2,
+      "pic": "",
+      "gender": "",
+      "active_bookings": [
+        {
+          "busname": "airavatha",
+          "busnumber": "KA014567",
+          "distance": "1000kms",
+          "seats": "1",
+          "from": "bengaluru",
+          "to": "Mumbai",
+          "start": "10:00 am",
+          "end": "10:00 pm",
+          "journey_time": "10 hrs",
+          "price": "1000",
+          "date": "20/7/2023"
+        }
+      ],
+      "previous_bookings": []
+    },
+    {
+      "name": "swaraj",
+      "email": "swarajswaraj128@gamil.com",
+      "password": "swaraj@12",
+      "phno": "8217459687",
+      "dob": "1999-01-12",
+      "id": 3,
+      "pic": "",
+      "gender": "",
+      "active_bookings": [
+        {
+          "busname": "airavatha",
+          "busnumber": "KA014567",
+          "distance": "1000kms",
+          "seats": "1",
+          "from": "bengaluru",
+          "to": "Mumbai",
+          "start": "10:00 am",
+          "end": "10:00 pm",
+          "journey_time": "10 hrs",
+          "price": "1000",
+          "date": "20/7/2023"
+        }
+      ],
+      "previous_bookings": []
+    },
+    {
+      "name": "Alex",
+      "email": "alex@gamil.com",
+      "password": "alex123",
+      "phno": "9685742365",
+      "dob": "1998-05-03",
+      "id": 4,
+      "pic": "",
+      "gender": "",
+      "active_bookings": [
+        {
+          "busname": "airavatha",
+          "busnumber": "KA014567",
+          "distance": "1000kms",
+          "seats": "1",
+          "from": "bengaluru",
+          "to": "Mumbai",
+          "start": "10:00 am",
+          "end": "10:00 pm",
+          "journey_time": "10 hrs",
+          "price": "1000",
+          "date": "20/7/2023"
+        },
+        {
+          "busname": "Airavatha",
+          "busnumber": "KA01E312",
+          "seats": "5",
+          "from": "Mysore",
+          "to": "Kochi",
+          "start": "10:45pm",
+          "end": "6:45am",
+          "journey_time": "8",
+          "price": 1000,
+          "date": "2023-05-29"
+        },
+        {
+          "busname": "Airavatha",
+          "busnumber": "KA04E3010",
+          "seats": "8",
+          "from": "Malavalli",
+          "to": "Male mahadeshwara hills",
+          "start": "10:45pm",
+          "end": "4:45am",
+          "journey_time": "8",
+          "price": 1600,
+          "date": "2023-05-29"
+        },
+        {
+          "busname": "Airavatha",
+          "busnumber": "KA01E312",
+          "seats": 1,
+          "from": "Mysore",
+          "to": "Kashmir",
+          "start": "10:45pm",
+          "end": "4:45am",
+          "journey_time": "48",
+          "price": 5600,
+          "date": "2023-05-27"
+        },
+        {
+          "busname": "Airavatha",
+          "busnumber": "KA01E312",
+          "seats": 1,
+          "from": "Mysore",
+          "to": "Kashmir",
+          "start": "10:45pm",
+          "end": "4:45am",
+          "journey_time": "48",
+          "price": 5600,
+          "date": "2023-05-27"
+        }
+      ],
+      "previous_bookings": []
+    },
+    {
+      "name": "Alisha",
+      "email": "alisha@gamil.com",
+      "password": "alisha123",
+      "phno": "9963784521",
+      "dob": "1998-05-23",
+      "id": 5,
+      "pic": "",
+      "gender": "",
+      "active_bookings": [
+        {
+          "busname": "airavatha",
+          "busnumber": "KA014567",
+          "distance": "1000kms",
+          "seats": "1",
+          "from": "bengaluru",
+          "to": "Mumbai",
+          "start": "10:00 am",
+          "end": "10:00 pm",
+          "journey_time": "10 hrs",
+          "price": "1000",
+          "date": "20/7/2023"
+        }
+      ],
+      "previous_bookings": []
+    },
+    {
+      "name": "sinchana",
+      "email": "sinchanasameeks@gmail.com",
+      "password": "sinchu1236",
+      "phno": "8596742369",
+      "dob": "2000-03-13",
+      "id": 7,
+      "pic": "",
+      "gender": "",
+      "active_bookings": [
+        {
+          "busname": "airavatha",
+          "busnumber": "KA014567",
+          "distance": "1000kms",
+          "seats": "1",
+          "from": "bengaluru",
+          "to": "Mumbai",
+          "start": "10:00 am",
+          "end": "10:00 pm",
+          "journey_time": "10 hrs",
+          "price": "1000",
+          "date": "20/7/2023"
+        }
+      ],
+      "previous_bookings": []
+    },
+    {
+      "name": "Jhonny",
+      "email": "jhonny@gmail.com",
+      "password": "9696",
+      "phno": "7859687463",
+      "dob": "1999-05-03",
+      "id": 9,
+      "pic": "",
+      "gender": "",
+      "active_bookings": [
+        {
+          "busname": "airavatha",
+          "busnumber": "KA014567",
+          "distance": "1000kms",
+          "seats": "1",
+          "from": "bengaluru",
+          "to": "Mumbai",
+          "start": "10:00 am",
+          "end": "10:00 pm",
+          "journey_time": "10 hrs",
+          "price": "1000",
+          "date": "20/7/2023"
+        }
+      ],
+      "previous_bookings": []
+    },
+    {
+      "name": "rachana",
+      "email": "rachana@gamil.com",
+      "password": "rachhu143",
+      "phno": "7756984563",
+      "dob": "1998-05-03",
+      "id": 10,
+      "pic": "",
+      "gender": "",
+      "active_bookings": [
+        {
+          "busname": "airavatha",
+          "busnumber": "KA014567",
+          "distance": "1000kms",
+          "seats": "1",
+          "from": "bengaluru",
+          "to": "Mumbai",
+          "start": "10:00 am",
+          "end": "10:00 pm",
+          "journey_time": "10 hrs",
+          "price": "1000",
+          "date": "20/7/2023"
+        },
+        {
+          "busname": "Rajamsha",
+          "busnumber": "KA04E311",
+          "seats": 1,
+          "from": "Bengaluru",
+          "to": "Goa",
+          "start": "10:45pm",
+          "end": "4:45am",
+          "journey_time": "8",
+          "price": 950,
+          "date": "2023-05-28"
+        },
+        {
+          "busname": "Airavatha",
+          "busnumber": "KA04E3008",
+          "seats": 1,
+          "from": "Mandya",
+          "to": "Darmashtala",
+          "start": "10:45pm",
+          "end": "4:45am",
+          "journey_time": "8",
+          "price": 200,
+          "date": "2023-05-28"
+        }
+      ],
+      "previous_bookings": []
+    }
+  ]
+}
